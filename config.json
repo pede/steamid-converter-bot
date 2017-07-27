@@ -1,0 +1,6 @@
+{
+	"username": "USERNAME",
+	"password": "PASSWORD",
+	"adminIDs": ["ADMIN_STEAMID64"],
+	"SteamAPI_Key": "Your STEAM API KEY GET IT HERE: http://steamcommunity.com/dev"
+}
