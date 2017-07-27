@@ -9,8 +9,8 @@ Install required modules:
   npm install steam-user
   npm install steamidconvert
   ```
-[steamidconvert by. babofitos](https://www.npmjs.com/package/steamidconvert)
-[steam-user by. doctormckay](https://www.npmjs.com/package/steam-user)
+  - [steamidconvert by. babofitos](https://www.npmjs.com/package/steamidconvert)
+  - [steam-user by. doctormckay](https://www.npmjs.com/package/steam-user)
 
 Upload the bot to your server and change the config.json file.
 
