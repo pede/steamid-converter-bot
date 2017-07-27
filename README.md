@@ -32,3 +32,7 @@ The bot will now login and add you as a friend on steam.
 !remove_friend removes a friend from the bot (admin only command)
 
 [Bot Test / Interface](http://i.imgur.com/p3hE7iv.png)
+
+# Donation #
+
+[If you like my work feel free to send me a donation](https://steamcommunity.com/tradeoffer/new/?partner=44509024&token=u1I8566N)
