@@ -29,6 +29,8 @@ The bot will now login and add you as a friend on steam.
 !add_friend adds a friend to the bot (admin only command)
 !remove_friend removes a friend from the bot (admin only command)
 
+[Bot Test / Interface](http://i.imgur.com/p3hE7iv.png) 
+
 # MIT License #
 
 Copyright (c) 2017 Michel Daoud
