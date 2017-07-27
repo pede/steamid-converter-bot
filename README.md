@@ -1,5 +1,5 @@
 # steamid-converter-bot #
-Is a nodejs steambot that converts steamid and profile link to steam64 format.
+This is a nodejs steam bot that converts steamid or profile link to steam64 format.
 
 # How To Setup #
 Make sure you have npm and nodejs installed on your server.
